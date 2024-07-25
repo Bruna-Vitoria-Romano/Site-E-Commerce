@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Superframe Force\\Desktop\\Projects\\SiteLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A395E14-EEB9-4D90-B3CD-CB2D2EFFED7F}|SiteLibrary\\SiteLibrary.csproj|c:\\users\\superframe force\\desktop\\projects\\sitelibrary\\sitelibrary\\models\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A395E14-EEB9-4D90-B3CD-CB2D2EFFED7F}|SiteLibrary\\SiteLibrary.csproj|solutionrelative:sitelibrary\\models\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A395E14-EEB9-4D90-B3CD-CB2D2EFFED7F}|SiteLibrary\\SiteLibrary.csproj|c:\\users\\superframe force\\desktop\\projects\\sitelibrary\\sitelibrary\\models\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A395E14-EEB9-4D90-B3CD-CB2D2EFFED7F}|SiteLibrary\\SiteLibrary.csproj|solutionrelative:sitelibrary\\models\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A395E14-EEB9-4D90-B3CD-CB2D2EFFED7F}|SiteLibrary\\SiteLibrary.csproj|c:\\users\\superframe force\\desktop\\projects\\sitelibrary\\sitelibrary\\models\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A395E14-EEB9-4D90-B3CD-CB2D2EFFED7F}|SiteLibrary\\SiteLibrary.csproj|solutionrelative:sitelibrary\\models\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Superframe Force\\Desktop\\Projects\\SiteLibrary\\SiteLibrary\\Models\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "SiteLibrary\\Models\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\Superframe Force\\Desktop\\Projects\\SiteLibrary\\SiteLibrary\\Models\\Entity\\User.cs",
+              "RelativeToolTip": "SiteLibrary\\Models\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:13:01.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Superframe Force\\Desktop\\Projects\\SiteLibrary\\SiteLibrary\\Models\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "SiteLibrary\\Models\\Entity\\Product.cs",
+              "ToolTip": "C:\\Users\\Superframe Force\\Desktop\\Projects\\SiteLibrary\\SiteLibrary\\Models\\Entity\\Product.cs",
+              "RelativeToolTip": "SiteLibrary\\Models\\Entity\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:52:17.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Superframe Force\\Desktop\\Projects\\SiteLibrary\\SiteLibrary\\Models\\Entity\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "SiteLibrary\\Models\\Entity\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Superframe Force\\Desktop\\Projects\\SiteLibrary\\SiteLibrary\\Models\\Entity\\BaseEntity.cs",
+              "RelativeToolTip": "SiteLibrary\\Models\\Entity\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:41:43.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
